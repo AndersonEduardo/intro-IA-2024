@@ -1,4 +1,6 @@
-# prompt: código python para, usando o pacote opencv, capturar imagem da webcam e identificar números na imagem capturada, usando o modelo "model", construído anteriormente
+# REFERENCIAS:
+# https://medium.com/@sunnykumar1516/access-camera-and-display-image-using-python-and-opencv-7e4b5d54375b
+# https://dipankarmedh1.medium.com/real-time-object-detection-with-yolo-and-webcam-enhancing-your-computer-vision-skills-861b97c78993
 
 import cv2
 import numpy as np
