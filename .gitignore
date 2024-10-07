@@ -2,3 +2,5 @@
 *.pickle
 *.csv
 *.xlsx
+bioclim/
+*.DS_Store
