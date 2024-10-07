@@ -4,3 +4,6 @@
 *.xlsx
 bioclim/
 *.DS_Store
+*.Rhistory
+South_America_boundaries/
+*rascunho*
