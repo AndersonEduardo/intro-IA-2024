@@ -8,3 +8,5 @@ bioclim/
 South_America_boundaries/
 *rascunho*
 !assets/
+!datasets/
+!apps/
