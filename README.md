@@ -12,4 +12,5 @@ Neste repositório, você encontrará recursos utilizados ao longo do curso, com
 - Notebook (material principal do curso): [*link*](https://github.com/AndersonEduardo/intro-IA-2024/blob/main/notebooks)
 - Datasets: [*link*](https://github.com/AndersonEduardo/intro-IA-2024/tree/main/datasets)
 - Apps: [*link*](https://github.com/AndersonEduardo/intro-IA-2024/tree/main/apps)
+- Modelos: [*link*](https://drive.google.com/drive/folders/1TMTlRcEg0y3DLgE2AWLVz4jPrzNrdVd4?usp=sharing)
 
