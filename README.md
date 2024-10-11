@@ -7,7 +7,7 @@
 
 Neste repositório, você encontrará recursos utilizados ao longo do curso, como *datasets*, *código*, *aplicações*, etc.
 
-Links:
+## Links para os recursos
 
 - Notebook (material principal do curso): [*link*]()
 - Datasets: [*link*]()
