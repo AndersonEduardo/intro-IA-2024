@@ -9,6 +9,6 @@ Neste repositório, você encontrará recursos utilizados ao longo do curso, com
 
 Links:
 
-- Notebook (material principal do curso): (link)[]
-- Datasets: (link)[]
-- Apps: (link)[]
+- Notebook (material principal do curso): [link]()
+- Datasets: [link]()
+- Apps: [link]()
