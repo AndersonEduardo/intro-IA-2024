@@ -1,6 +1,6 @@
 # Introdução à Inteligência Artificial para Biocientistas: *conceitos* e *práticas*
 
-![imagem](https://i.sstatic.net/qd5rF.jpgw=0.5)
+![imagem](https://i.sstatic.net/qd5rF.jpg?w=10)
 (FONTE:[link](https://datascience.stackexchange.com/questions/12851/how-do-you-visualize-neural-network-architectures))
 
 ## Bem-vinda(o) ao repositório do curso *Introdução à Inteligência Artificial para Biocientistas*!
