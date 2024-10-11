@@ -7,6 +7,6 @@ bioclim/
 *.Rhistory
 South_America_boundaries/
 *rascunho*
-!assets/
-!datasets/
-!apps/
+!assets/*
+!datasets/*
+!apps/*
